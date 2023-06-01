@@ -38,5 +38,15 @@
     "name": "spring.admissions.datasource.jdbcUrl",
     "type": "java.lang.String",
     "description": "A description for 'spring.admissions.datasource.jdbcUrl'"
+  },
+  {
+    "name": "spring.admissions.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.admissions.datasource.url'"
+  },
+  {
+    "name": "spring.appointments.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.appointments.datasource.url'"
   }
 ]}
