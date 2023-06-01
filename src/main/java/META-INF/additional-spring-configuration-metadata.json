@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "spring.admissions.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.admissions.datasource.jdbcUrl'"
+  },
+  {
+    "name": "spring.admissions.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.admissions.datasource.username'"
+  },
+  {
+    "name": "spring.admissions.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.admissions.datasource.driver-class-name'"
+  },
+  {
+    "name": "spring.admissions.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.admissions.datasource.password'"
+  },
+  {
+    "name": "spring.appointments.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.appointments.datasource.jdbcUrl'"
+  },
+  {
+    "name": "spring.appointments.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.appointments.datasource.username'"
+  },
+  {
+    "name": "spring.appointments.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.appointments.datasource.password'"
+  },
+  {
+    "name": "spring.admissions.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.admissions.datasource.jdbcUrl'"
+  }
+]}
